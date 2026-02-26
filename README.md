@@ -54,19 +54,3 @@ Soy un desarrollador web full stack, combinando un backend robusto con **Spring 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-de-frutos-jimenez-a9b591308/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertodfj93@gmail.com)
 
----
-
-## 📊 Mis estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertodfj&theme=transparent&hide_border=true&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertodfj&layout=compact&theme=transparent&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=robertodfj&theme=transparent&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=robertodfj&label=Profile%20Views&color=12&icon=5" />
-</p>

@@ -1,91 +1,78 @@
 <h1 align="center">Hey, I'm Roberto 👋</h1>
 
 <p align="center">
-  <strong>Software Developer · Full Stack · Backend · AI & Automation</strong>
+  <strong>IT Engineer · Cloud · Networking · Automation</strong>
 </p>
 
 <p align="center">
-  I like building things, breaking them, understanding why they broke,<br>
-  and turning ideas into something people can actually use.
+  From the cable to the cloud, with code in between.<br>
+  I like building things, breaking them, understanding why they broke,
+  and making them work for real people.
 </p>
 
 <p align="center">
-  <a href="https://robertodfj.netlify.app/">
-    <img src="https://img.shields.io/badge/→_Explore_my_portfolio-111111?style=for-the-badge" />
+  <a href="https://robertodfj.com">
+    <img src="https://img.shields.io/badge/→_Explore_my_portfolio-1f3b73?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🧠 More than just code
+## 🧠 About me
 
-I'm a junior software developer focused on building **real products, APIs,
-automations and interactive web experiences**.
+I started in IT solving real incidents: networks that won't connect, VPNs that fail
+and users who can't work. That's where I learned that technology only matters **when it works**.
 
-My main stack revolves around **.NET, Java, Spring Boot, Angular and Vue.js**,
-but what I enjoy most isn't a particular framework.
+Then I moved into development with **.NET, Java and REST APIs**, and into automating
+with AI what used to be done by hand.
 
-It's **making things work**.
+Now I'm bringing both together: I'm training in **cloud (AWS), networking and DevOps**
+to design, deploy and run infrastructure — not just use it.
 
-I like taking an idea, figuring out how it should work behind the scenes,
-connecting the right services, automating what shouldn't be done manually,
-and turning the whole thing into something simple to use.
-
-Currently, I'm working on software solutions that combine:
-
-`Backend` → `APIs` → `Automation` → `AI` → `Frontend`
+`Support` → `Networking` → `Code` → `Automation` → `Cloud`
 
 ---
 
-## ⚡ What I actually build
+## ⚡ What I do
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI & Automation
+### ☁️ Cloud & DevOps
 
-I build solutions that automate repetitive processes,
-connect services and use AI where it actually makes sense.
+Containers, deployments and infrastructure that doesn't depend on someone clicking around.
 
-**.NET · Semantic Kernel · APIs · Automation**
+**AWS (learning) · Azure · Docker · Git · Terraform (learning)**
 
 </td>
-
 <td width="50%">
 
-### ⚙️ Backend
+### 🌐 Systems & Networking
 
-I enjoy the part of the application that nobody sees,
-but everything depends on.
+Almost two years keeping international users connected and working, in English.
 
-**Java · Spring Boot · C# · ASP.NET Core · SQL · REST**
+**Active Directory · Intune · VPN · VoIP · Linux · Routing & switching**
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 🖥️ Frontend
+### 🤖 Automation & AI
 
-I don't just want interfaces to work.
+If a task is repeated twice, I turn it into a script — or let AI handle it where it actually makes sense.
 
-I want them to feel good.
-
-**Angular · Vue.js · JavaScript · HTML**
+**PowerShell · Bash · .NET · Semantic Kernel · APIs**
 
 </td>
-
 <td width="50%">
 
-### 🔌 Integrations
+### ⚙️ Development
 
-One of my favourite parts of development:
+The backend nobody sees and everything depends on, plus interfaces that feel good to use.
 
-making completely different systems talk to each other.
-
-**REST APIs · External services · Postman · Git**
+**C# · ASP.NET Core · Java · Spring Boot · Vue · Angular · SQL**
 
 </td>
 </tr>
@@ -93,199 +80,10 @@ making completely different systems talk to each other.
 
 ---
 
-# 🚀 Things I've built
+## 🚀 Things I've built
 
-### 📅 WhatsApp Booking System
+### 📅 WhatsApp Booking System — *in production*
 
-A booking system for a barber shop built around an external API,
-allowing customers to manage appointments through WhatsApp.
-
-**The idea:**  
-Remove unnecessary steps between *"I need an appointment"* and
-*"It's booked."*
-
-`REST API` `Automation` `External Services`
-
----
-
-### 🤖 Telegram Bot
-
-A Telegram bot connected to external APIs to automate processes
-and retrieve information in real time.
-
-Small project.
-
-But exactly the kind of project I like:
-
-**idea → API → logic → automation → something people can actually use.**
-
-`REST APIs` `Automation` `API Integration`
-
----
-
-# 🛠️ My toolbox
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-### APIs & Data
-
-![REST](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-# 💼 Where I've worked
-
-### SLCLAB — Full Stack + AI Developer
-`2026 → Present`
-
-Building solutions around **AI, automation and web applications**.
-
-- AI-powered support process automation
-- .NET & Semantic Kernel
-- Angular applications
-- REST API integrations
-- SQL & Postman
-- Git & Scrum
-
----
-
-### GETD — Junior .NET Full Stack Developer
-`2025 → 2026`
-
-- Vue.js & ASP.NET Core
-- REST APIs
-- Business logic
-- Database integration
-- Collaborative development with Git
-
----
-
-### Kyndryl — Java & Spring Boot Backend Developer
-`2025 → 2026`
-
-- Backend development with Java & Spring Boot
-- REST API development and integration
-- Process automation
-- SQL data management
-- Git & Scrum
-
----
-
-# 🎓 Education
-
-**Higher Degree in Multiplatform Application Development**  
-Universae · `2024 → 2026`
-
----
-
-# 🌍 Languages
-
-🇪🇸 **Spanish** — Native  
-🇬🇧 **English** — B2
-
----
-
-# 🧩 How I like to work
-
-```text
-IDEA
-  ↓
-UNDERSTAND THE PROBLEM
-  ↓
-DESIGN THE SOLUTION
-  ↓
-BUILD IT
-  ↓
-BREAK IT
-  ↓
-FIX IT
-  ↓
-MAKE IT BETTER
-```
-
-I don't believe in learning a technology just because it's trending.
-
-I prefer learning it when **there is a problem worth solving with it.**
-
----
-
-# 🏍️ Outside the IDE
-
-When I'm not writing code, you'll probably find me doing something
-completely different.
-
-I'm passionate about **motorcycles, cars, training and technology**.
-
-That probably explains quite a lot about how I approach development:
-
-**I like understanding how things work, pushing them,
-and eventually building my own version of them.**
-
----
-
-# 📡 Currently
-
-```yaml
-status: building
-focus:
-  - Backend development
-  - .NET
-  - Java & Spring Boot
-  - AI & automation
-  - Interactive web experiences
-
-learning:
-  - Better software architecture
-  - Scalable systems
-  - AI-powered applications
-
-looking_for:
-  - Interesting problems
-  - Great teams
-  - Opportunities to keep growing
-```
-
----
-
-# 🌐 Let's connect
-
-<p align="center">
-
-<a href="https://robertodfj.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-111111?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/roberto-de-frutos-jimenez-a9b591308/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:robertodfj93@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-  <strong>I don't just want to write code. I want to build things people remember.</strong>
-</p>
+Booking system for a real barbershop client: customers book through WhatsApp and the
+appointment is confirmed in real time.
+**The idea:** remove every step between *"I need an appointment"* and
